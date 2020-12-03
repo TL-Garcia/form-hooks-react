@@ -1,0 +1,24 @@
+.Form {
+    width: 50%;
+    margin-bottom: 1.5rem;
+}
+
+.state {
+    width: 250px;
+    padding: 1rem;
+    border: 2px dotted black;
+    margin-bottom: 1.5rem; 
+}
+
+.invalid {
+    background-color: red;
+}
+
+main {
+    padding: 2rem;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
